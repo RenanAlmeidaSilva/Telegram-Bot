@@ -2,6 +2,15 @@
 <p>Bot criado para pesquisa de informações sobre nomes de acordo com o IBGE.</p>
 <p><b>Plataforma:</b> <i>Telegram</i></p>
 
+<p>
+   <li>O Bot é interativo e possui teclado especial para suas respostas se tornarem mais fáceis.</li>
+   <li>Contudo seu uso acaba se tornando mais prático. Foi criado a partir de uma lista disponibilizada pelo</li>
+   <li><próprio IBGE e pode ser facilmente atualizado após uma troca de nova lista. Seu intuito e auxiliar buscas</li>
+   <li>mais específicas e deixar isso mais divertido. Contudo o bot também pode ser usado para usuários com curiosidade</li>
+   <li>referente a algum nome e divertir os mesmos pelo seu uso.</li>
+</p>
+
+
 <hr>
 
 <h2 align='center'>Observações</h2>
